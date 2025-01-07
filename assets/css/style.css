@@ -1,4 +1,6 @@
-
+*{
+  box-sizing: border-box;
+}
 div > span{
   display: flex;
   justify-content: center;

@@ -1,7 +1,7 @@
-*{
+* {
   box-sizing: border-box;
 }
-div > span{
+div > span {
   display: flex;
   justify-content: center;
   align-items: center;
